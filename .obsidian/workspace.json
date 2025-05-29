@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "4748489a0040a30e",
+    "type": "split",
+    "children": [
+      {
+        "id": "175ebd2febbe9456",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b6621c99207b2c3c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bde4c8e439d50358",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a4c0fdeb6ebb69c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f2e591048a73cdc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "05ac6daf5fd0964b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "f65e80dc99538929",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6d5bbbead2da11fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "062de64033f1036b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6fd78b5c70bef9aa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "31c398e2acfc29d6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "b96ad95073475621",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "3835f3001794fa04",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Bienvenido.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Bienvenido"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "templates:Insertar plantilla": false,
+      "markdown-importer:Abrir el importador de Markdown": false
+    }
+  },
+  "active": "b6621c99207b2c3c",
+  "lastOpenFiles": [
+    "progra3/complejidad algorítmica.md",
+    "tags/progra.md",
+    "bd1/modelo entidad-relación.md",
+    "bd1/álgebra relacional.md",
+    "progra3",
+    "Sin título.canvas",
+    "bd1/modelo relacional.md",
+    "bd1/intro al curso.md",
+    "tags/ideas.md",
+    "tags/bd.md",
+    "notitas/code ideas.md",
+    "métodos/diferenciación e integración numérica.md",
+    "Sin título.md",
+    "tags",
+    "notitas",
+    "métodos",
+    "bd1",
+    "edo",
+    "Bienvenido.md"
+  ]
+}

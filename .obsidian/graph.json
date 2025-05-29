@@ -1,0 +1,44 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "bd",
+      "color": {
+        "a": 1,
+        "rgb": 16050540
+      }
+    },
+    {
+      "query": "ideas",
+      "color": {
+        "a": 1,
+        "rgb": 3392711
+      }
+    },
+    {
+      "query": "progra",
+      "color": {
+        "a": 1,
+        "rgb": 11767276
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 1.396737294284942,
+  "close": true
+}

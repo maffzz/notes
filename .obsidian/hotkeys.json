@@ -1,0 +1,38 @@
+{
+  "app:open-help": [],
+  "app:open-settings": [],
+  "editor:open-link-in-new-split": [],
+  "editor:open-link-in-new-window": [],
+  "markdown:toggle-preview": [],
+  "editor:toggle-checklist-status": [],
+  "editor:insert-tag": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "3"
+    }
+  ],
+  "workspace:goto-tab-3": [],
+  "workspace:goto-tab-1": [],
+  "workspace:goto-tab-2": [],
+  "workspace:goto-tab-4": [],
+  "workspace:goto-tab-5": [],
+  "workspace:goto-tab-6": [],
+  "workspace:goto-tab-8": [],
+  "workspace:goto-tab-7": [],
+  "workspace:next-tab": [],
+  "workspace:previous-tab": [],
+  "workspace:goto-last-tab": [],
+  "app:go-forward": [],
+  "app:go-back": [],
+  "workspace:new-tab": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "P"
+    }
+  ],
+  "editor:follow-link": []
+}

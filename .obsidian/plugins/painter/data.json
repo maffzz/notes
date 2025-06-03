@@ -1,0 +1,23 @@
+{
+  "highlighterStyle": "text-color",
+  "highlighterMethods": "css-classes",
+  "highlighters": {
+    "sage": "#a3be8cff",
+    "pinky": "#b48eadff",
+    "blue": "#81a1c1ff",
+    "red": "#bf616aff",
+    "white": "#ffffffff",
+    "brown": "#a57864ff"
+  },
+  "highlighterOrder": [
+    "brown",
+    "red",
+    "sage",
+    "pinky",
+    "blue",
+    "white"
+  ],
+  "menuMode": "minimal",
+  "cleanSelectors": [],
+  "overwriteMarks": true
+}

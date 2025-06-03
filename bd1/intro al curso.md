@@ -1,3 +1,6 @@
+---
+
+---
 ## 1. definición de base de datos
 es un conjunto organizado de datos que permite su almacenamiento, acceso y manipulación de manera eficiente. se utilizan para gestionar grandes volúmenes de información en diversos ámbitos como empresas, gobiernos y aplicaciones digitales
 ### características principales:
@@ -95,8 +98,6 @@ para garantizar la seguridad, se implementan:
 - bases de datos NoSQL para datos no estructurados
 - uso de inteligencia artificial en la gestión de bases de datos
 
-next: [[modelo entidad-relación]]
-
 ---
-
+next: [[modelo entidad-relación]]
 tags: [[bd]]

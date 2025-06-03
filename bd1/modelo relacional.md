@@ -25,8 +25,6 @@
 **→** el tema de las llaves se soluciona colocando **ID** como atributo :P dice q no es la mejor solución pero equis
 **→ no** es una buena práctica inicializar columnas como nulas (NAs)
 
-next: [[álgebra relacional]]
-
 ---
-
+next: [[álgebra relacional]]
 tags: [[bd]]

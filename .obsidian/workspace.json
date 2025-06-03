@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "175ebd2febbe9456",
+        "id": "4ec8e82ad106a0bf",
         "type": "tabs",
         "children": [
           {
-            "id": "b6621c99207b2c3c",
+            "id": "175dc41cdaa4d5d8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "markdown",
+              "state": {
+                "file": "progra3/adaptadores stl.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "adaptadores stl"
             }
           }
         ]
@@ -29,6 +33,7 @@
       {
         "id": "6a4c0fdeb6ebb69c",
         "type": "tabs",
+        "dimension": 72.75204359673025,
         "children": [
           {
             "id": "0f2e591048a73cdc",
@@ -71,10 +76,27 @@
             }
           }
         ]
+      },
+      {
+        "id": "0c9afd067fa89404",
+        "type": "tabs",
+        "dimension": 27.247956403269757,
+        "children": [
+          {
+            "id": "023dbb5ee4beea72",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "6d5bbbead2da11fc",
@@ -160,21 +182,35 @@
       "markdown-importer:Abrir el importador de Markdown": false
     }
   },
-  "active": "b6621c99207b2c3c",
+  "active": "175dc41cdaa4d5d8",
   "lastOpenFiles": [
-    "progra3/complejidad algorítmica.md",
-    "tags/progra.md",
-    "bd1/modelo entidad-relación.md",
-    "bd1/álgebra relacional.md",
-    "progra3",
-    "Sin título.canvas",
+    "images/bd-heuristica.png",
+    "progra3/adaptadores stl.md",
     "bd1/modelo relacional.md",
-    "bd1/intro al curso.md",
-    "tags/ideas.md",
+    "bd1/modelo entidad-relación.md",
     "tags/bd.md",
-    "notitas/code ideas.md",
+    "bd1/structured query language.md",
+    "edo/separación de variables.md",
     "métodos/diferenciación e integración numérica.md",
-    "Sin título.md",
+    "progra3/complejidad algorítmica.md",
+    "bd1/procesamiento y optimización de consultas.md",
+    "images/Captura de pantalla 2025-06-02 a la(s) 3.00.41 p. m..png",
+    "Captura de pantalla 2025-06-02 a la(s) 3.00.41 p. m..png",
+    "images",
+    "bd1/seguridad en la base de datos y acceso programático.md",
+    "Sin título.canvas",
+    "bd1/intro al curso.md",
+    "bd1/dependencia funcional y formas normales.md",
+    "image/Sin nombre",
+    "image",
+    "tags/mate.md",
+    "notitas/code ideas.md",
+    "bd1/vistas y disparadores.md",
+    "bd1/funciones de agregación.md",
+    "bd1/álgebra relacional.md",
+    "tags/progra.md",
+    "progra3",
+    "tags/ideas.md",
     "tags",
     "notitas",
     "métodos",

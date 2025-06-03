@@ -25,7 +25,7 @@ ejem: **π marca,tipo (Agua)** : devuelve las columnas de marcas y tipos de agua
 <aside> ❗se ejecuta de adentro hacia afuera
 </aside>
 
-**INTERSECCIÓN →** **R1** ∩ **R2** _(deben tener los mismos atributos)_
+**INTERSECCIÓN →** **R1 ∩ R2** _(deben tener los mismos atributos)_
 ejem: **π marca (σ precio=1 (Agua)) ∩ π marca (σ precio=2 (Agua)** : devuelve las marcas que tienen aguas con precios de 1 sol y 2 soles
 
 **DIFERENCIA →** **R1** - **R2** _(deben tener los mismos atributos)_
@@ -46,16 +46,12 @@ ejem: **π nombre1,nombre2 (σ grados1>grados2(Cerveza1 X Cerveza2))** : devuelv
 ## basado en tuplas (CRT | filas)
 
 - cálculo de predicados de primer orden
-- devolver todas las tuplas que satisfacen una condicion
+- devolver todas las tuplas que satisfacen una condición
 
-<aside> ☝
-
-**una consulta se expresa comooo → {t | COND(t)} en dondeee…**
+<aside> ☝ una consulta se expresa comooo → {t | COND(t)} en dondeee...
 
 resultado: conjunto de tuplas t que satisfacen la condición COND(t)
-
 COND(t): expresión condicional en la que interviene la variable de tupla t basado en dominios
-
 </aside>
 
 **ejemplitos →**
@@ -76,76 +72,47 @@ COND(t): expresión condicional en la que interviene la variable de tupla t basa
 
 ### funciones de agregación
 
-|AVG : promedio|MIN : mínimo|MAX : máximo|SUM : suma|COUNT : recuento|
-|---|---|---|---|---|
+| AVG : promedio | MIN : mínimo | MAX : máximo | SUM : suma | COUNT : recuento |
+| -------------- | ------------ | ------------ | ---------- | ---------------- |
+|                |              |              |            |                  |
 
 **estructura →**
 
-<atributos> γ(funcion de agregación)(llave, lo que se cuenta) (entidad)
+<atributos> γ(función de agregación)(llave, lo que se cuenta) (entidad)
 
-**ejemplitos → @ es ganma (γ)**
+ejemplitos → @ es gamma (γ)
 
-1. servidor con la mayor cantidad de mensajes:
+1. **servidor con la mayor cantidad de mensajes**
     
-    R1 ← [S.name](http://S.name) @count(id) (M)
-    
+    R1 ← S.name @count(id) (M)
     R2 ← p count/n_mensajes (R1)
-    
     R3 ← @max(n_mensajes) (R2)
-    
     R4 ← R2 X R3
-    
-    R5 ← π [S.name](http://S.name) (σ n_mensajes=max (R4))
-    
-2. obtener el director y episodio con el sueldo más bajo:
+    R5 ← π S.name (σ n_mensajes=max (R4))
+
+2. **obtener el director y episodio con el sueldo más bajo**
     
     R1 ← p Dirige1 (Dirige)
-    
     R2 ← p Dirige2 (Dirige)
-    
     R3 ← p Dirige3 (Dirige)
-    
     R4 ← R1 ⋈(R1.sueldo>R2.sueldo) R2
-    
     R5 ← π sueldo (Dirige) - π R4.R1.sueldo (R4)
-    
     R6 ← Dirige ⋈(sueldo=R5.R4.R1.sueldo) R5
-    
     R7 ← π Dnombre,Enombre (R6)
-    
-3. mostrar nombre de los ciudadanos que hayan sido beneficiados con el bono independiente y el bono universal
+
+3. **mostrar nombre de los ciudadanos que hayan sido beneficiados con el bono independiente y el bono universal**
     
     B_ind_dni ← π DNI (σ nombre=independiente (Bono X Beneficio))
-    
     B_uni_dni ← π DNI (σ nombre=universal (Bono X Beneficio))
-    
     B_ambos ← B_ind_dni ∩ B_uni_dni
-    
     Final ← π nombre (Ciudadano ⋈ B_ambos)
-    
     —
-    
     B_ind ← π BId (σ nombre=independiente (Bono))
-    
     B_uni ← π BId (σ nombre=universal (Bono))
-    
     B_ambos ← B_ind ∩ B_uni
-    
     B_dni ← π DNI (Beneficio ⋈DNI=B_ambos.DNI B_ambos(Beneficio X )
-    
     Final ← π nombre (Ciudadano ⋈ B_dni)
-    
 
 ---
-
-1. <tipo> (@count(marca, nombre) @avg(precios) (Cerveza))
-2. @count(dni) (Alumno)
-3. <genero> @count(dni) (Alumno)
-4. <genero,nombre> @count(dni) (Alumno)
-5. @count(marca,nombre)
-6. <tipo> @count(marca, nombre(Cerveza))
-7. <tipo> @count(marca, nombre) AVG(precio)(Cerveza))
-
----
-
+next: [[funciones de agregación]]
 tags: [[bd]]

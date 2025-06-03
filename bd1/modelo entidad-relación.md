@@ -79,8 +79,6 @@
 <aside> ☝ un alumno puede tener varias notas en varias evaluaciones en un mismo curso
 </aside>
 
-next: [[modelo relacional]]
-
 ---
-
+next: [[modelo relacional]]
 tags: [[bd]]

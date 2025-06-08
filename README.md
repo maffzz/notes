@@ -1,6 +1,6 @@
 # 🌱 mis apuntes de la u 
 
-este repo contiene mis apuntes organizadas por curso. algunas están más completas que otras y todas están hechas con muchos matchas 🍵
+este repo contiene mis apuntes organizadas por curso. algunas están más completas que otras y hechas con muchos matchas 🍵
 
 ---
 

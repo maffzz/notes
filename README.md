@@ -33,7 +33,7 @@ solo explora las carpetas según el curso que te interese
 
 ## 🙌 créditos y aviso
 
-todo hecho por mí durante mis sesiones de estudio
+todo hecho por mí durante mis sesiones de estudio  
 este repositorio es completamente libre para usar 😽
 
 ---

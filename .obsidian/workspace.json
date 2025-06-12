@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bd1/seguridad en la base de datos y acceso programático.md",
+                "file": "edo/transformada de laplace.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "seguridad en la base de datos y acceso programático"
+              "title": "transformada de laplace"
             }
           }
         ]
@@ -183,6 +183,7 @@
   },
   "active": "344deccd1f68f5cb",
   "lastOpenFiles": [
+    "bd1/seguridad en la base de datos y acceso programático.md",
     "bd1/base de datos no relacional.md",
     "bd1/transacciones y ACID.md",
     "bd1/álgebra relacional.md",
@@ -212,7 +213,6 @@
     "images/Captura de pantalla 2025-06-02 a la(s) 3.00.41 p. m..png",
     "Captura de pantalla 2025-06-02 a la(s) 3.00.41 p. m..png",
     "images",
-    "bd1/seguridad en la base de datos y acceso programático.md",
     "bd1/intro al curso.md",
     "bd1/dependencia funcional y formas normales.md",
     "image/Sin nombre",

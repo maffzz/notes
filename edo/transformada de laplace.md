@@ -1,10 +1,12 @@
 ## 📌 definición
 
 la **transformada de laplace** de una función f(t), definida para valores de t mayores o iguales que cero, es una transformación integral definida como:
+
 $$
 \mathcal{L}\{f(t)\} = F(s) = \int_0^{\infty} e^{-st} f(t) \, dt
 $$
-> donde:
+
+donde:
 > - L{} es el símbolo de la transformada de laplace
 > - f(t) es la función original en el tiempo
 > - F(s) es la función transformada en el **dominio de (s)** | *no confundir con el número 5 q sí pasa :(* 
@@ -30,9 +32,11 @@ $$
 ### 2️⃣ transformada de derivadas
 
 - primera derivada:
+
 $$
 \mathcal{L}\{f'(t)\} = sF(s) - f(0)
 $$
+
 - segunda derivada:
 $$
 \mathcal{L}\{f''(t)\} = s^2F(s) - sf(0) - f'(0)

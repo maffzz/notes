@@ -164,5 +164,4 @@ void ejemplo5(int n) {
 **complejidad total:**  `O(n)`
 
 ---
-
 tags: [[progra]]

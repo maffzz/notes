@@ -6,13 +6,11 @@ este repo contiene mis apuntes organizadas por curso. algunas están más comple
 
 ## 🗂️ directorio de apuntes
 
-| 📁 carpeta | ✨ curso |
-|----------------|--------------------|
-| [`bd1`](./bd1) | 📊 base de datos 1 |
-| [`edo`](./edo) | 📈 ecuaciones diferenciales |
-| [`métodos`](./métodos) | 🔢 métodos numéricos |
-| [`progra3`](./progra3) | 💻 programación 3 |
-| [`notitas`](./notitas) | 🧠 notas personales |
+| 📁 carpeta             | ✨ curso              |
+| ---------------------- | -------------------- |
+| [`bd1`](./bd1)         | 📊 base de datos 1   |
+| [`progra3`](./progra3) | 💻 programación 3    |
+| [`notitas`](./notitas) | 🧠 notas personales  |
 
 ---
 

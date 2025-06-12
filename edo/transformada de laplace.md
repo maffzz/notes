@@ -26,9 +26,11 @@ donde:
 
 ### 1️⃣ linealidad
 
+
 $$
 \mathcal{L}\{a*f(t) + b*g(t)\} = a*F(s) + b*G(s)
 $$
+
 ### 2️⃣ transformada de derivadas
 
 - primera derivada:
@@ -41,12 +43,15 @@ $$
 $$
 \mathcal{L}\{f''(t)\} = s^2F(s) - sf(0) - f'(0)
 $$
+
 ### 3️⃣ función escalón unitario (tema aparte no worries) 
 
 para u_c(t):
+
 $$
 \mathcal{L}\{u_c(t)\} = \frac{e^{-cs}}{s}
 $$
+
 y para u_c(t) * f(t-c):
 $$
 \mathcal{L}\{u_c(t)f(t-c)\} = e^{-cs}F(s)
@@ -55,11 +60,13 @@ $$
 ---
 ## 🧮 tabla de transformadas comunes
 
-f: $$1$$
+f: 
+$$1$$
+
 transformada: 
 $$\frac{1}{s}$$
 ---
-f:  
+f: 
 $$t^n$$
 transformada:  
 $$\frac{n!}{s^{n+1}}$$

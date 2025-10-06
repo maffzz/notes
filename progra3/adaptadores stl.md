@@ -1,9 +1,11 @@
 ## <mark class="hltr-blue">LIFO</mark>
 
 <aside>☝ el último en insertarse es el primero en salir </aside>
+
 ## <mark class="hltr-pinky">FIFO</mark>
 
 <aside>☝ el primero en insertarse es el primero en salir </aside>
+
 ## <mark class="hltr-brown">HEAP</mark>
 
 <aside>☝ los elementos se organizan por medio de un criterio de prioridad, el de mayor prioridad es el primero en salir </aside>

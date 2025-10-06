@@ -27,4 +27,4 @@
 
 ---
 next: [[álgebra relacional]]
-tags: [[bd]]
+tags: [[bd]] 

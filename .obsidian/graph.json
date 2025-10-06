@@ -2,9 +2,9 @@
   "collapse-filter": false,
   "search": "",
   "showTags": true,
-  "showAttachments": false,
+  "showAttachments": true,
   "hideUnresolved": true,
-  "showOrphans": true,
+  "showOrphans": false,
   "collapse-color-groups": false,
   "colorGroups": [
     {
@@ -15,24 +15,17 @@
       }
     },
     {
-      "query": "ideas",
-      "color": {
-        "a": 1,
-        "rgb": 361110
-      }
-    },
-    {
       "query": "progra",
       "color": {
         "a": 1,
-        "rgb": 11819730
+        "rgb": 14768800
       }
     },
     {
-      "query": "mate",
+      "query": "cloud",
       "color": {
         "a": 1,
-        "rgb": 14443665
+        "rgb": 5957360
       }
     }
   ],
@@ -46,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 180,
-  "scale": 0.3196083941117578,
+  "scale": 0.37143078471200763,
   "close": true
 }

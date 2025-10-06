@@ -129,5 +129,5 @@ ESCRIBIR(X) -- recién escribe
 - para planificar un plan secuenciable hay que saber identificar los 3 tipos de conflictos
 
 ---
-next: [[base de datos no relacional]]
+next: [[web semántica - base de datos de grafos]]
 tags: [[bd]]

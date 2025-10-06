@@ -3,17 +3,16 @@
 este repo contiene mis apuntes organizadas por curso. algunas están más completas que otras y hechas con muchos matchas 🍵
 
 ---
-
 ## 🗂️ directorio de apuntes
 
-| 📁 carpeta             | ✨ curso              |
-| ---------------------- | -------------------- |
-| [`bd1`](./bd1)         | 📊 base de datos 1   |
-| [`progra3`](./progra3) | 💻 programación 3    |
-| [`notitas`](./notitas) | 🧠 notas personales  |
+| 📁 carpeta                   | ✨ curso                              |
+| ---------------------------- | ------------------------------------ |
+| [`bd1`](./bd1)               | 📊 base de datos 1                   |
+| [`progra3`](./progra3)       | 💻 programación 3                    |
+| [`algortimos`](./algortimos) | 🧠 algortimos y estructuras de datos |
+| [`cloud`](./cloud)           | ☁️ cloud computing                   |
 
 ---
-
 ## 📚 ¿para qué sirve este repo?
 
 - para tener todo ordenado 📦
@@ -22,13 +21,11 @@ este repo contiene mis apuntes organizadas por curso. algunas están más comple
 - para compartir con quien lo necesite 🫶 
 
 ---
-
 ## 💡 ¿cómo lo uso?
 
 solo explora las carpetas según el curso que te interese
 
 ---
-
 ## 🙌 créditos y aviso
 
 todo hecho por mí durante mis sesiones de estudio  

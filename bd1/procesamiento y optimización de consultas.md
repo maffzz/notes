@@ -85,7 +85,7 @@ algoritmos por cada operador</aside>
 	- peor caso: O(|R|/B)
 - para devolver <mark class="hltr-blue">k</mark> tuplas, debemos sumar k/B al costo
 	- caso ideal: O(max(1,k/B))
-- costo de búsqueda por rangos : <mark class="hltr-blue">uso de árboles B</mark>
+- costo de búsqueda por rangos : <mark class="hltr-blue">uso de [[árboles]] B</mark>
 	- buscar n valores: O(n)
 	- leer todo: O(|R|/B)
 ### árbol B

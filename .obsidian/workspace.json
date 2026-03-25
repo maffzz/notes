@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a526002fa0daf0e4",
+        "id": "cbcb223b12eff4e3",
         "type": "tabs",
         "children": [
           {
-            "id": "f86133352cd1b1d5",
+            "id": "bfcbdbe614237869",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "README"
             }
           }
         ]
@@ -180,8 +184,9 @@
   },
   "active": "0f2e591048a73cdc",
   "lastOpenFiles": [
-    "tags/cloud.md",
+    "tags/bd.md",
     "README.md",
+    "tags/cloud.md",
     "cloud/cloud migration 6Rs.md",
     "bd2/sistemas de gestión de bases de datos.md",
     "bd2/introducción.md",
@@ -203,7 +208,6 @@
     "algoritmos/heaps.md",
     "algoritmos/notación big O.md",
     "tags/progra.md",
-    "tags/bd.md",
     "algoritmos/pilas, colas e iteradores.md",
     "algoritmos/listas enlazadas dobles.md",
     "algoritmos/listas enlazadas.md",

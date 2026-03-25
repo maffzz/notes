@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "91f82530255542d8",
+        "id": "a526002fa0daf0e4",
         "type": "tabs",
         "children": [
           {
-            "id": "193290cccee02ba5",
+            "id": "f86133352cd1b1d5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "algoritmos/notación big O.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "notación big O"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -83,7 +79,7 @@
         "dimension": 30.909090909090907,
         "children": [
           {
-            "id": "dcc03cc3e3aa7c80",
+            "id": "73dccc7c89987039",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -96,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5
+    "width": 200
   },
   "right": {
     "id": "6d5bbbead2da11fc",
@@ -182,55 +178,54 @@
       "markdown-importer:Abrir el importador de Markdown": false
     }
   },
-  "active": "193290cccee02ba5",
+  "active": "0f2e591048a73cdc",
   "lastOpenFiles": [
-    "algoritmos/pilas, colas e iteradores.md",
-    "algoritmos/heaps.md",
+    "tags/cloud.md",
     "README.md",
     "cloud/cloud migration 6Rs.md",
+    "bd2/sistemas de gestión de bases de datos.md",
+    "bd2/introducción.md",
+    "images/flujo_completo_consulta.png",
+    "images/tiempo_acceso.png",
+    "images/pag_estructura.png",
+    "images/pag_reemplazo.png",
+    "images/buffer_manager.png",
+    "images/seq_vs_in.png",
+    "images/nodos_executor.png",
+    "images/pipeline_optimizer.png",
+    "images/optimizacion_semantica.png",
+    "Captura de pantalla 2026-03-24 a la(s) 5.19.35 p. m..png",
+    "bd1/web semántica - base de datos de grafos.md",
+    "bd1/modelo relacional.md",
+    "bd2",
+    "algoritmos/grafos.md",
+    "algoritmos/árboles de prefijos.md",
+    "algoritmos/heaps.md",
+    "algoritmos/notación big O.md",
+    "tags/progra.md",
+    "tags/bd.md",
+    "algoritmos/pilas, colas e iteradores.md",
+    "algoritmos/listas enlazadas dobles.md",
+    "algoritmos/listas enlazadas.md",
+    "algoritmos/punteros.md",
     "cloud/almacenamiento y bases de datos.md",
     "cloud/escalabilidad y elasticidad.md",
     "cloud/contenedores.md",
     "progra3/árboles.md",
-    "algoritmos/listas enlazadas dobles.md",
-    "algoritmos/listas enlazadas.md",
-    "algoritmos/punteros.md",
-    "algoritmos/notación big O.md",
-    "Sin nombre",
     "cloud/infraestructura como código IaC.md",
     "cloud/virtualización con máquinas virtuales.md",
     "cloud/amazon web service.md",
     "progra3/estructuras de datos - hash.md",
-    "bd1/procesamiento y optimización de consultas.md",
-    "progra3/estructuras de datos - heap.md",
-    "progra3/adaptadores stl.md",
-    "progra3/complejidad algorítmica.md",
-    "cloud/sistemas operativos.md",
-    "cloud/conceptos fundamentales.md",
-    "tags/cloud.md",
-    "tags/progra.md",
-    "tags/bd.md",
-    "bd1/intro al curso.md",
     "algoritmos",
     "Sin título 1.canvas",
     "Sin título.canvas",
     "dbp/App.tsx.pdf",
     "cloud",
-    "images/componentes_uri.png",
-    "images/heuristica.png",
     "dbp/Login and SignUp.pdf",
     "dbp/Backend-Fronted.pdf",
-    "images/funcion-hash.png",
-    "images/triple_rdf.png",
-    "images/grafo_ejemplo.png",
-    "componentes_uri.png",
-    "grafo_ejemplo.png",
-    "triple_rdf.png",
     "App.tsx.pdf",
     "Backend-Fronted.pdf",
     "Login and SignUp.pdf",
-    "dbp",
-    "funcion-hash.png",
-    "images/Captura de pantalla 2025-06-02 a la(s) 3.00.41 p. m..png"
+    "dbp"
   ]
 }

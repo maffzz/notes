@@ -67,10 +67,6 @@ existen 2 posibilidades para generar un heap: a través de inserciones sucesivas
 - se parte del último valor y se evalúa hacia adelante si tiene hijos
 - cuando se detecta un nodo con hijos se ejecuta el <mark class="hltr-yellow">percólate down</mark>
 - se repite el proceso anterior hasta alcanzar el primer valor
-## implementación
 
-```cpp
-
-```
 ---
 tags: [[progra]]

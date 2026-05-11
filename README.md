@@ -5,13 +5,13 @@ este repo contiene mis apuntes organizados por curso 🍵
 ---
 ## 🗂️ directorio de apuntes
 
-| 📁 carpeta                   | ✨ curso                              |
-| ---------------------------- | ------------------------------------ |
-| [`bd1`](./bd1)               | 📊 base de datos 1                   |
-| [`progra3`](./progra3)       | 💻 programación 3                    |
-| [`algoritmos`](./algoritmos) | 🧠 algortimos y estructuras de datos |
-| [`cloud`](./cloud)           | ☁️ cloud computing                   |
-| [`bd2`](./bd2)               | ⚙️ base de datos 2                   |
+| 📁 carpeta             | ✨ curso                              |
+| ---------------------- | ------------------------------------ |
+| [`bd1`](./bd1)         | 📊 base de datos 1                   |
+| [`progra3`](./progra3) | 💻 programación 3                    |
+| [`aed`](./aed)         | 🧠 algortimos y estructuras de datos |
+| [`cc`](./cc)           | ☁️ cloud computing                   |
+| [`bd2`](./bd2)         | ⚙️ base de datos 2                   |
 
 ---
 ## 📚 ¿para qué sirve este repo?

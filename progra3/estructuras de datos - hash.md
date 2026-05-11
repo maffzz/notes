@@ -130,6 +130,5 @@ el proceso de inserción y búsqueda involucra los siguientes pasos:
 - primary clustering: se forman grandes conglomerados de slots contiguos
 - usualmente m’ = m − 1 si m es primo
 
-
 ---
 tags: [[progra]]

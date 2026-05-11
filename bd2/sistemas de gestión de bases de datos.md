@@ -74,5 +74,5 @@ objetivo de todo lo anterior: reducir la cantidad de veces que se accede al disc
 ![[flujo_completo_consulta.png]]
 
 ---
-
+next: [[estudio lab 01]]
 tags: [[bd]]

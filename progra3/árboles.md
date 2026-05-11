@@ -1,5 +1,4 @@
 estructura jerárquica acíclica compuesta por nodos y aristas donde cada nodo (excepto la raíz) tiene un único padre
-
 ## características
 
 - conjunto finito de nodos, conectados por aristas que definen relaciones padre-hijo
